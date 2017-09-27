@@ -1,14 +1,14 @@
-# Slush Slush-webpack-scaffold [![Build Status](https://secure.travis-ci.org/jeantimex/slush-slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-slush-webpack-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-webpack-scaffold.png)](http://badges.enytc.com/for/npm/slush-slush-webpack-scaffold)
+# Slush Slush-webpack-scaffold [![Build Status](https://secure.travis-ci.org/jeantimex/slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-webpack-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-webpack-scaffold.png)](http://badges.enytc.com/for/npm/slush-webpack-scaffold)
 
 > Scaffold your next html5 app with webpack and webpack dev server.
 
 
 ## Getting Started
 
-Install `slush-slush-webpack-scaffold` globally:
+Install `slush-webpack-scaffold` globally:
 
 ```bash
-$ npm install -g slush-slush-webpack-scaffold
+$ npm install -g slush-webpack-scaffold
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-webpack-scaffold
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-webpack-scaffold
+$ mkdir my-slush-webpack-scaffold
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-webpack-scaffold && slush slush-webpack-scaffold
+$ cd my-slush-webpack-scaffold && slush slush-webpack-scaffold
 ```
 
 ## Getting To Know Slush
@@ -35,10 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/jeantimex/slush-slush-webpack-scaffold/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/jeantimex/slush-webpack-scaffold/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/jeantimex/slush-slush-webpack-scaffold/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/jeantimex/slush-webpack-scaffold/issues).
 
 ## License 
 
