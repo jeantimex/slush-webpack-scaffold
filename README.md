@@ -16,13 +16,13 @@ $ npm install -g slush-webpack-scaffold
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-webpack-scaffold
+$ mkdir myapp
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-webpack-scaffold && slush webpack-scaffold
+$ cd myapp && slush webpack-scaffold
 ```
 
 ## Getting To Know Slush
