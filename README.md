@@ -1,7 +1,9 @@
-# Slush-webpack-scaffold [![Build Status](https://secure.travis-ci.org/jeantimex/slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-webpack-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-webpack-scaffold.png)](http://badges.enytc.com/for/npm/slush-webpack-scaffold)
+# slush-webpack-scaffold
 
 > Scaffold your next html5 app with webpack and webpack dev server.
 
+[![npm version](https://badge.fury.io/js/slush-webpack-scaffold.svg)](https://badge.fury.io/js/slush-webpack-scaffold)
+[![Build Status](https://secure.travis-ci.org/jeantimex/slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-webpack-scaffold)
 
 ## Getting Started
 
