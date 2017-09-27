@@ -1,4 +1,4 @@
-# Slush Slush-webpack-scaffold [![Build Status](https://secure.travis-ci.org/jeantimex/slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-webpack-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-webpack-scaffold.png)](http://badges.enytc.com/for/npm/slush-webpack-scaffold)
+# Slush-webpack-scaffold [![Build Status](https://secure.travis-ci.org/jeantimex/slush-webpack-scaffold.png?branch=master)](https://travis-ci.org/jeantimex/slush-webpack-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-webpack-scaffold.png)](http://badges.enytc.com/for/npm/slush-webpack-scaffold)
 
 > Scaffold your next html5 app with webpack and webpack dev server.
 
@@ -22,7 +22,7 @@ $ mkdir my-slush-webpack-scaffold
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-webpack-scaffold && slush slush-webpack-scaffold
+$ cd my-slush-webpack-scaffold && slush webpack-scaffold
 ```
 
 ## Getting To Know Slush
